@@ -15,7 +15,7 @@
     <description>Simple CXF JAX-RS webapp service using spring configuration</description>
     <properties>
         <jackson.version>1.8.6</jackson.version>
-        <jetty.version>9.0.6.v20130930</jetty.version>
+        <jetty.version>9.4.21.v20190926</jetty.version>
         <solr.version>4.5.0</solr.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
